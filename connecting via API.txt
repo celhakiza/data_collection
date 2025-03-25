@@ -1,0 +1,41 @@
+Your kpi-url: rw-koboforms.lmms.org
+
+Your API:  https://rw-koboforms.lmms.org/token/?format=json #this provide the API I am using
+
+my API token: aff20104d25573494693dc4dd1abe13d2c77e82c
+
+
+Your form UID: aRjVwEaRzhJR5jrLAbaSLM    #is on the form between format and summary/landing
+
+form UID for HGSF/LITERACY: aTKJTAiCm33mDB5xGqJuwv
+
+Your url for connecting to kobotoolbox: https://[kpi-urls]/assets/[forms-uid]/submissions/?format=json #format
+
+
+
+1. my url: https://rw-koboforms.lmms.org/assets/aRjVwEaRzhJR5jrLAbaSLM/submissions/?format=json 
+
+2.  https://rw-koboforms.lmms.org/assets/aHzfFNJkHuf62H3HSD7UBM/submissions/?format=json
+
+
+Url for the literacy data: https://rw-koboforms.lmms.org/assets/aHzfFNJkHuf62H3HSD7UBM/submissions/?format=json
+
+
+
+
+
+
+WASH FORM: aG2BpeX8JuiFvZCbGT5Z5n
+
+
+Url for the WASH: https://rw-koboforms.lmms.org/assets/aG2BpeX8JuiFvZCbGT5Z5n/submissions/?format=json
+
+
+
+url for MHM: https://rw-koboforms.lmms.org/assets/aLgYbYrzLVuF6iruFmFNDP/submissions/?format=json
+
+
+
+
+  
+
